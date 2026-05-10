@@ -3,3 +3,13 @@ __pycache__/
 
 # Virtual environment
 fastapienv/
+
+# Environment variables
+.env
+
+# Editor/OS junk
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
